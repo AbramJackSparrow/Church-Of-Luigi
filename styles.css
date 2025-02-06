@@ -1,0 +1,33 @@
+body {
+  background: black;
+  text-decoration: underline;
+}
+h1 {
+  color: rgb(34, 136, 102);
+}
+#Media-portrayal-Heading {
+  color: rgb(34, 136, 102);
+  font-size: x-large;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#media-portrayal {
+  color: rgb(34, 136, 102);
+  font-size: medium;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#img1 {
+  width: 100px
+  height: 100px
+}
+
+h4 {
+  color: rgb(34, 136, 102);
+  font-size: larger
+  }
+marquee {
+  font-size: larer;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(34, 136, 102);
+}
