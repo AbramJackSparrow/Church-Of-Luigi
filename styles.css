@@ -7,7 +7,7 @@ h1 {
 }
 #Media-portrayal-Heading {
   color: rgb(34, 136, 102);
-  font-size: x-large;
+  font-size: xx-large;
   font-family: "Times New Roman", Times, serif;
 }
 
@@ -24,8 +24,13 @@ h1 {
 
 h4 {
   color: rgb(34, 136, 102);
-  font-size: larger
+  font-size: xx-large
   }
+marquee {
+  font-size: larer;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(34, 136, 102);
+}
 marquee {
   font-size: larer;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
