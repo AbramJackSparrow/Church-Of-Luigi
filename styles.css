@@ -17,6 +17,12 @@ h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+#treatment-of-luigi {
+  color: rgb(34, 136, 102);
+  font-size: medium;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 #img1 {
   width: 100px
   height: 100px
