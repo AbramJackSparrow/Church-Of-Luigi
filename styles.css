@@ -8,6 +8,12 @@ h1 {
   font-size: xx-large;
 }
 
+#droppedcharges {
+  color: rgb(34, 136, 102);
+  font-size: samll;
+  font-family: "Times New Roman", Times, serif;
+}
+
 #mission-statement {
   color: rgb(34, 136, 102);
   font-size: samll;
