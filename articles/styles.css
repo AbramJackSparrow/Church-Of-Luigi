@@ -1,0 +1,94 @@
+body {
+  background: black;
+}
+
+h1 {
+  color: rgb(34, 136, 102);
+  text-decoration: underline;
+  font-size: xx-large;
+}
+
+#mission-statement {
+  color: rgb(34, 136, 102);
+  font-size: samll;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#disclaimer {
+  color: rgb(216, 11, 11);
+  font-size: x-small;
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+#image-description-1 {
+  color: rgb(34, 136, 102);
+  font-size: samll;
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+#Media-portrayal-Heading {
+  color: rgb(34, 136, 102);
+  font-size: xx-large;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#media-portrayal {
+  color: rgb(34, 136, 102);
+  font-size: medium;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#treatment-of-luigi {
+  color: rgb(34, 136, 102);
+  font-size: medium;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#img1 {
+  width: 100px
+  height: 100px
+}
+
+h4 {
+  color: rgb(34, 136, 102);
+  font-size: xx-large
+  }
+
+  .button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+marquee {
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(34, 136, 102);
+}
+
+
+#more-soon {
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(34, 136, 102);
+}
+
+
+#about-me-abram {
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(34, 136, 102);
+}
+
+#charliekirk {
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(34, 136, 102);
+}
