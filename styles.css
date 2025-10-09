@@ -63,7 +63,7 @@ h4 {
   }
 
   .button {
-    background-color: ##ffffffd1;
+    background-color: rgb(255, 255, 255);
     border: none;
     color: black;
     padding: 15px 32px;
