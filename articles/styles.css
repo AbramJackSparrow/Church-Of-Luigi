@@ -1,47 +1,47 @@
 body {
-  background: black;
+  background: rgba(27, 26, 31, 0.82);
 }
 
 h1 {
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
   text-decoration: underline;
   font-size: xx-large;
 }
 
 #mission-statement {
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
   font-size: samll;
   font-family: "Times New Roman", Times, serif;
 }
 
 #disclaimer {
-  color: rgb(216, 11, 11);
+  color: rgb(255, 255, 255);
   font-size: x-small;
   font-family: "Times New Roman", Times, serif;
 }
 
 
 #image-description-1 {
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
   font-size: samll;
   font-family: "Times New Roman", Times, serif;
 }
 
 
 #Media-portrayal-Heading {
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
   font-size: xx-large;
   font-family: "Times New Roman", Times, serif;
 }
 
 #media-portrayal {
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
   font-size: medium;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 #treatment-of-luigi {
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
   font-size: medium;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
@@ -52,14 +52,14 @@ h1 {
 }
 
 h4 {
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
   font-size: xx-large
   }
 
   .button {
-    background-color: #04AA6D; /* Green */
+    background-color: ##ffffffd1;
     border: none;
-    color: white;
+    color: black;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -70,37 +70,44 @@ h4 {
 marquee {
   font-size: large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
 }
 
 
 #more-soon {
   font-size: large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
 }
 
 
 #about-me-abram {
   font-size: large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
 }
 
 #charliekirk {
   font-size: large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
 }
 
 #treatment-of-luigi {
   font-size: large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
 }
 
 #luigi-trerrorism-charges-dropped {
   font-size: large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color: rgb(34, 136, 102);
+  color: rgb(255, 255, 255);
+}
+
+#I-am-a-terrorist
+{
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(255, 255, 255);
 }
