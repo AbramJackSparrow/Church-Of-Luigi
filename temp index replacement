@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title></title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Welcome to the Church of Luigi</h1>
+    <p1 id="mission-statement">The Church of Luigi [CoL] is an organization dedicated to anticapitalism and reporting on the Luigi Mangione case.</p>
+    <p1 id="disclaimer">[Note that the CoL does not condone violence, politically motivated or otherwise]</p>
+    <br>
+<h4>UPDATE: SEVERAL CHARGES DROPPED!</h4>
+    <p1 id="droppedcharges">see article<a href="/Church-Of-Luigi/articles/Terrorism-Charges-Against-Luigi-Have-Been-Dropped.html">here</a></p>
+    <br>
+    <img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2190718212.jpg?c=original&q=w_1280,c_fill"
+    width="600"
+    height="400"
+    />
+    <p id="image-description-1"> the most sexy man alive and its not even close</p>
+  
+    <head>
+  
+  <h4>Public Opinion Of Luigi Mangione</h4>
+    <marquee> " I'll put this in fortnight terms for you: united is griddying to a winner winner chicken dinner dubsky, while you and your family are dying" - Penguinz0 </marquee>
+
+    <a href="articles.html" class="button">Articles</a> <a href="Anti-Capitalism.html" class="button">Anti capitalsim</a> <a href="About-Us.html" class="button">About Us</a>
+
+
+
+      <h1>MUCH MORE COMING VERY SOON</h1>
+      <p id="more-soon">come back later for breaking news, opinion pieces, and other Luigi Related Content</p>
+</html>
