@@ -88,11 +88,17 @@ marquee {
 
 
 #about-me-abram {
-  font-size: large;
+  font-size: medium;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: rgb(255, 255, 255);
 }
 
+#title {
+  font-size: large
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(255, 255, 255);
+  }
+  
 #charliekirk {
   font-size: large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
